@@ -25,7 +25,7 @@ Si estás experimentando un problema de uso del procesador al 100%, puedes proba
   - **Acceso:** `Ctrl + Shift + Esc` para abrir el Administrador de tareas.
   - Comando: `taskmgr /tab:startup`.
 
-#### **Finaliza los procesos en segundo plano:** Abre el Administrador de tareas (`Ctrl + Shift + Esc`) y ve a la pestaña Procesos. Si ves un proceso que está consumiendo muchos recursos, finaliza el proceso.
+### **Finaliza los procesos en segundo plano:** Abre el Administrador de tareas (`Ctrl + Shift + Esc`) y ve a la pestaña Procesos. Si ves un proceso que está consumiendo muchos recursos, finaliza el proceso.
   - Acceso: `Ctrl + Shift + Esc` para abrir el Administrador de tareas. Luego, ve a la pestaña "Procesos" y haz clic derecho en el proceso problemático, selecciona "Finalizar tarea."
   - Comando: `taskmgr /tab:processes`.
 
