@@ -56,10 +56,10 @@ Si estás experimentando un problema de uso del procesador al 100%, puedes proba
 ---
 ### **Limpia los archivos temporales:** Abre el "Limpiador de disco" en Windows y selecciona la unidad que deseas limpiar. Marca la casilla "Archivos temporales" y haz clic en "Aceptar".
   - Acceso: Busca "Limpiador de disco" en la barra de búsqueda y sigue las instrucciones.
-  - **Comando:** `cleanmgr`
-  - **Comando:** `%temp%`
-  - **Comando:** `temp`
-  - **Comando:** `Prefetch`
+  - **Comando:** Windows + r : `cleanmgr`
+  - **Comando:** Windows + r :`%temp%`
+  - **Comando:** Windows + r :`temp`
+  - **Comando:** Windows + r :`Prefetch`
 ---
 ###  **Desactiva el servicio "SysMain" (Superfetch):** El servicio "SysMain" a veces puede causar un alto uso de CPU. Puedes desactivarlo temporalmente si experimentas problemas.
   - **Comando:** `sc config SysMain start=disabled`
