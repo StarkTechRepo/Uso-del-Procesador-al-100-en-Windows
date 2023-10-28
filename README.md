@@ -59,7 +59,7 @@ Si estás experimentando un problema de uso del procesador al 100%, puedes proba
   - **Comando:** `cleanmgr`
   - **Comando:** `%temp%`
   - **Comando:** `temp`
-  - **Comando:** `temp`
+  - **Comando:** `Prefetch`
 
 ###  **Desactiva el servicio "SysMain" (Superfetch):** El servicio "SysMain" a veces puede causar un alto uso de CPU. Puedes desactivarlo temporalmente si experimentas problemas.
   - **Comando:** `sc config SysMain start=disabled`
